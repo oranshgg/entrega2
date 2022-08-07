@@ -15,6 +15,14 @@ body{
     border: 2px solid black;
 }
 
+.footer{
+    list-style: none;
+}
+
+a{
+    color: black;
+}
+
 .img{
     list-style: none;
     margin-right: auto;
